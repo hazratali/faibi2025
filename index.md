@@ -22,14 +22,19 @@ Add about text here
 Invited speakers to be added here as below ()
 <div style="display: flex; justify-content: center; gap: 40px;">
   <div style="text-align: center;">
-    <img src="assets/img/i1.jpg" alt="Hazrat" style="width: 180px; height: 180px; border-radius: 50%;">
-    <p><strong>Dr. Hazrat Ali</strong></p>
-    <p>University of Stirling, UK</p>
+    <img src="assets/img/kayhan.jpg" alt="Kayhan" style="width: 180px; height: 180px; border-radius: 50%;">
+    <p><strong>Dr. Kayhan Batmanghelich</strong></p>
+    <p>Boston University, USA</p>
   </div>
   <div style="text-align: center;">
-    <img src="assets/img/i1.jpg" alt="Bilal" style="width: 180px; height: 180px; border-radius: 50%;">
-    <p><strong>Dr. Rizwan Qureshi</strong></p>
-    <p>University of Central Florida, USA</p>
+    <img src="assets/img/kunzhang.jpg" alt="Kun Zhang" style="width: 180px; height: 180px; border-radius: 50%;">
+    <p><strong>Dr. Kun Zhang</strong></p>
+    <p>Carnegie Mellon University, USA</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="assets/img/mahapatra.jpg" alt="Mahapatra" style="width: 180px; height: 180px; border-radius: 50%;">
+    <p><strong>Dr. Dwarikanath Mahapatra</strong></p>
+    <p>Inception Institute of AI, UAE</p>
   </div>
 </div>
 
