@@ -1,4 +1,4 @@
-title: AI in Surgery
+title: Foundation AI Models in Biomedical Imaging
 author:
   name: Hazrat Ali
   email: #your-email@domain.com
@@ -6,7 +6,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Webpage dedicated for special session on AI in Surgery, at MIUA 2025, Leeds, United Kingdom.
+  Webpage dedicated for the Workshop on Foundation AI Models in Biomedical Imaging at ISBI 2025, Houston, Texas, USA. 
 
 # Build settings
 
