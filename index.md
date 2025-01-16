@@ -42,7 +42,7 @@ Invited speakers to be added here as below ()
     <p>University of Stirling</p>
   </div>
   <div style="text-align: center;">
-    <img src="assets/img/i1.jpg" alt="Bilal" style="width: 180px; height: 180px; border-radius: 50%;">
+    <img src="assets/img/rizwan.jpg" alt="Rizwan" style="width: 180px; height: 180px; border-radius: 50%;">
     <p><strong>Dr. Rizwan Qureshi</strong></p>
     <p>Affiliation</p>
   </div>
