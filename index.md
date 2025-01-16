@@ -11,7 +11,7 @@ layout: home
   <h3>Work on</h3>
   <h1>Foundation AI Models in Biomedical Imaging</h1>
   <h3>Workshop at</h3>
-  <h3><a href="https://conferences.leeds.ac.uk/miua/">IEEE International Conference on Biomedical Imaging (ISBI) 20205</a></h3>
+  <h3><a href="https://biomedicalimaging.org/2025/">IEEE International Conference on Biomedical Imaging (ISBI) 20205</a></h3>
   
 </div>
 
