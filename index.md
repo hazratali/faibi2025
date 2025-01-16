@@ -8,10 +8,10 @@
 layout: home
 ---
 <div style="text-align: center; margin-top: 20px;">
-  <h3>Work on</h3>
+  <h3>Workshop on</h3>
   <h1>Foundation AI Models in Biomedical Imaging</h1>
-  <h3>Workshop at</h3>
-  <h3><a href="https://biomedicalimaging.org/2025/">IEEE International Conference on Biomedical Imaging (ISBI) 20205</a></h3>
+  <h3> at</h3>
+  <h3><a href="https://biomedicalimaging.org/2025/">IEEE International Conference on Biomedical Imaging (ISBI) 2025</a></h3>
   
 </div>
 
