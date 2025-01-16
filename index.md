@@ -52,12 +52,12 @@ Invited speakers to be added here as below ()
   <div style="text-align: center;">
     <img src="assets/img/rekik.jpg" alt="Hazrat" style="width: 180px; height: 180px; border-radius: 50%;">
     <p><strong>Dr. Islem Rekik</strong></p>
-    <p>Affiliation</p>
+    <p>Imperial College London, UK</p>
   </div>
   <div style="text-align: center;">
     <img src="assets/img/jiawu.jpg" alt="Bilal" style="width: 180px; height: 180px; border-radius: 50%;">
     <p><strong>Prof. Jia Wu</strong></p>
-    <p>Affiliation</p>
+    <p>MD Anderson Cancer Center, USA</p>
   </div> 
 </div>
 
@@ -76,13 +76,17 @@ To be announced.
     <img src="assets/img/logo1.png" alt="Hazrat" style="width: 250px; border-radius: 0;">
   </div>
   <div style="text-align: center;">
-    <img src="assets/img/logo1.png" alt="Bilal" style="width: 250px; border-radius: 0;">
-  </div>
-  <div style="text-align: center;">
-    <img src="assets/img/logo1.png" alt="Bilal" style="width: 250px; border-radius: 0;">
+    <img src="assets/img/logo1.png" alt="Rizwan" style="width: 250px; border-radius: 0;">
   </div>
 </div>
-
+<div style="display: flex; justify-content: center; gap: 40px;">
+  <div style="text-align: center;">
+    <img src="assets/img/logo1.png" alt="Rekik" style="width: 250px; border-radius: 0;">
+  </div>
+  <div style="text-align: center;">
+    <img src="assets/img/logo1.png" alt="Jiawu" style="width: 250px; border-radius: 0;">
+  </div>
+</div>
 ---
 
 
