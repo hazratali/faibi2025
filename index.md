@@ -86,10 +86,10 @@ To be announced.
 </div>
 <div style="display: flex; justify-content: center; gap: 40px;">
   <div style="text-align: center;">
-    <img src="assets/img/logo1.png" alt="Rekik" style="width: 250px; border-radius: 0;">
+    <img src="assets/img/mdanderson.png" alt="Jiawu" style="width: 250px; border-radius: 0;">
   </div>
   <div style="text-align: center;">
-    <img src="assets/img/logo1.png" alt="Jiawu" style="width: 250px; border-radius: 0;">
+    <img src="assets/img/imperial.png" alt="Rekik" style="width: 250px; border-radius: 0;">
   </div>
 </div>
 ---
