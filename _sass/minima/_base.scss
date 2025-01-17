@@ -21,7 +21,7 @@ dl, dd, ol, ul, figure {
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
   color: $text-color;
-  background: linear-gradient(45deg, #031903, #27bd27);
+  background: linear-gradient(132deg, rgb(8, 0, 255) 0.00%, rgb(227, 43, 227) 100.00%);
   // background-color: #03306f; // $background-color;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
