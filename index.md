@@ -72,6 +72,9 @@ We welcome submissions of abstracts for **featured talks** at the workshop. If y
   </div> 
 </div>
 
+# When
+15 April 2025 (Morning)
+
 # Schedule
 To be announced. 
 
