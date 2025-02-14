@@ -72,8 +72,10 @@ We welcome submissions of abstracts for **featured talks** at the workshop. If y
   </div> 
 </div>
 
-# When
+# Where and When
 15 April 2025 (Morning)
+
+Hyatt Regency Houston Downtown, Houston, Texas, USA.
 
 # Schedule
 To be announced. 
