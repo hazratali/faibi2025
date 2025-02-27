@@ -44,6 +44,71 @@ Foundation AI models are generalistic AI models that have recently garnered huge
 # Call for featured talks
 We welcome submissions of abstracts for **featured talks** at the workshop. If you are attending IEEE ISBI 2025 and would like to present your work at the FAIBI workshop too, please fill in this simple form so that the organizers can include your talk in the workshop program. This will be included as a featured talk and should be limited to 10 minutes duration + a 5-minute question-answer session. [Click here to submit title of your talk](https://docs.google.com/forms/d/e/1FAIpQLScFEII8VCPAK464FKQ61og2X9YUPrqv-Frf1L32Ys1ve5ssHg/viewform?usp=header)
 
+# Where and When
+15 April 2025 (Morning)
+
+Hyatt Regency Houston Downtown, Houston, Texas, USA.
+
+
+# Schedule
+<table border="1">
+    <tr>
+        <th>Time</th>
+        <th>Talk</th>
+        <th>Speaker</th>
+        <th>Title</th>
+    </tr>
+    <tr>
+        <td>9:00 am</td>
+        <td>Invited talk</td>
+        <td>Kayhan Batmanghelich</td>
+        <td><strong>To be confirmed</strong></td>
+    </tr>
+    <tr>
+        <td>9:40 am</td>
+        <td>Invited talk</td>
+        <td>Kun Zhang</td>
+        <td>
+            <strong>Causal Representation Learning for Generative AI</strong>
+            <details>
+                <summary>Read abstract</summary>
+                Causality is a fundamental notion in science, engineering, and even in machine learning. Uncovering the causal process behind observed data can naturally help answer 'why' and 'how' questions, inform optimal decisions, and achieve adaptive prediction. In many scenarios, observed variables (such as image pixels and questionnaire results) are often reflections of the underlying causal variables rather than being causal variables themselves. Causal representation learning aims to reveal the underlying hidden causal variables and their relations. In this talk, we show how the modularity property of causal systems makes it possible to recover the underlying causal representations from observational data with identifiability guarantees: under appropriate assumptions, the learned representations are consistent with the underlying causal process. We demonstrate how identifiable causal representation learning can naturally benefit generative AI, with image generation, image editing, and text generation as particular examples.
+            </details>
+        </td>
+    </tr>
+    <tr>
+        <td>10:20 am</td>
+        <td>Invited talk</td>
+        <td>Invited speaker 3</td>
+        <td><strong>To be confirmed</strong></td>
+    </tr>
+    <tr>
+        <td>10:40 am</td>
+        <td>Featured talk</td>
+        <td>Abhiram Kandiyana</td>
+        <td>
+            <strong>Automatic Classification of Microscopy Images using multi-modal LLMs</strong>
+            <details>
+                <summary>Read abstract</summary>
+                Current AI-based methods for the classification of cellular features (number, activation state) in microscopy images require time- and labor-intensive processes for training models. Specific limitations include the need for large numbers of images and major time commitments from domain experts for accurate ground truthing. This poster presents a solution that overcomes these limitations using a state-of-the-art vision language model (VLM) and few-shot prompting while maintaining equivalence in accuracy compared to the baseline. Rather than training with images from each class, the models input consists of minimal ground-truth prompts for visual question answering. Furthermore, our novel human-in-the-loop approach automates the selection of example image-text pairs as input prompts and generates explanatory text as the basis for separating images into distinct classes.
+            </details>
+        </td>
+    </tr>
+    <tr>
+        <td>10:50 am</td>
+        <td>Featured talk</td>
+        <td>Syed Anwar</td>
+        <td>
+            <strong>Self-supervised learning for chest x-ray analysis</strong>
+            <details>
+                <summary>Read abstract</summary>
+                Chest X-Ray (CXR) is a widely used clinical imaging modality and has a pivotal role in the diagnosis and prognosis of various lung and heart related conditions. Conventional automated clinical diagnostic tool design strategies relying on radiology reads and supervised learning, entail the cumbersome requirement of high quality annotated training data. To address this challenge, self-supervised pre-training has proven to outperform supervised pre-training in numerous downstream vision tasks, representing a significant breakthrough in the field. However, medical imaging pre-training significantly differs from pre-training with natural images (e.g., ImageNet) due to unique attributes of clinical images. In this talk, I will present a self-supervised training paradigm that leverages a student teacher framework for learning diverse concepts and hence effective representation of the CXR data. Hence, expanding beyond merely modeling a single primary label within an image, instead, effectively harnessing the information from all the concepts inherent in the CXR. The pre-trained model is subsequently fine-tuned to address diverse domain-specific tasks. Our proposed paradigm consistently demonstrates robust performance across multiple downstream tasks on multiple datasets, highlighting the success and generalizability of the pre-training strategy. The training strategy has been extended for federated learning (FL), which could alleviate the burden of data sharing and enable patient privacy. I will briefly talk about the privacy landscape of FL and potential data leakage within the FL paradigm.
+            </details>
+        </td>
+    </tr>
+</table>
+
+
 # Organizers
 <div style="display: flex; justify-content: center; gap: 40px;">
   <div style="text-align: center;">
@@ -73,19 +138,6 @@ We welcome submissions of abstracts for **featured talks** at the workshop. If y
   </div> 
 </div>
 
-# Where and When
-15 April 2025 (Morning)
-
-Hyatt Regency Houston Downtown, Houston, Texas, USA.
-
-# Schedule
-Time | Talk | Speaker | Title 
------ | ----- | ------ | ----------------
-9:00 am | Invited talk | Kayhan Batmanghelich | **To be confirmed**
-9:40 am | Invited talk |Kun Zhang | **Causal Representation Learning for Generative AI** <details> <summary>Read abstract</summary> Causality is a fundamental notion in science, engineering, and even in machine learning. Uncovering the causal process behind observed data can naturally help answer 'why' and 'how' questions, inform optimal decisions, and achieve adaptive prediction. In many scenarios, observed variables (such as image pixels and questionnaire results) are often reflections of the underlying causal variables rather than being causal variables themselves. Causal representation learning aims to reveal the underlying hidden causal variables and their relations. In this talk, we show how the modularity property of causal systems makes it possible to recover the underlying causal representations from observational data with identifiability guarantees: under appropriate assumptions, the learned representations are consistent with the underlying causal process. We demonstrate how identifiable causal representation learning can naturally benefit generative AI, with image generation, image editing, and text generation as particular examples. </details>
-10:20 am | Inted talk | Invited speaker 3 | **To be confirmed**
-10:40 am | Featured talk | Abhiram Kandiyana | **Automatic Classification of Microscopy Images using multi-modal LLMs** <details><summary>Read abstract</summary> Current AI-based methods for the classification of cellular features (number, activation state) in microscopy images require time- and labor-intensive processes for training models. Specific limitations include the need for large numbers of images and major time commitments from domain experts for accurate ground truthing. This poster presents a solution that overcomes these limitations using a state-of-the-art vision language model (VLM) and few-shot prompting while maintaining equivalence in accuracy compared to the baseline. Rather than training with images from each class, the models input consists of minimal ground-truth prompts for visual question answering. Furthermore, our novel human-in-the-loop approach automates the selection of example image-text pairs as input prompts and generates explanatory text as the basis for separating images into distinct classes. </details>
-10:50 am | Featured talk | Syed Anwar | **Self-supervised learning for chest x-ray analysis** <details><summary>Read abstract</summary> Chest X-Ray (CXR) is a widely used clinical imaging modality and has a pivotal role in the diagnosis and prognosis of various lung and heart related conditions. Conventional automated clinical diagnostic tool design strategies relying on radiology reads and supervised learning, entail the cumbersome requirement of high quality annotated training data. To address this challenge, self-supervised pre-training has proven to outperform supervised pre-training in numerous downstream vision tasks, representing a significant breakthrough in the field. However, medical imaging pre-training significantly differs from pre-training with natural images (e.g., ImageNet) due to unique attributes of clinical images. In this talk, I will present a self-supervised training paradigm that leverages a student teacher framework for learning diverse concepts and hence effective representation of the CXR data. Hence, expanding beyond merely modeling a single primary label within an image, instead, effectively harnessing the information from all the concepts inherent in the CXR. The pre-trained model is subsequently fine-tuned to address diverse domain-specific tasks. Our proposed paradigm consistently demonstrates robust performance across multiple downstream tasks on multiple datasets, highlighting the success and generalizability of the pre-training strategy. The training strategy has been extended for federated learning (FL), which could alleviate the burden of data sharing and enable patient privacy. I will briefly talk about the privacy landscape of FL and potential data leakage within the FL paradigm.  </details>
 
 # Contact us
 **Dr. Hazrat Ali**, ali.hazrat@stir.ac.uk 
