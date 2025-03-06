@@ -36,7 +36,7 @@ Foundation AI models are generalistic AI models that have recently garnered huge
     <div style="text-align: center;">
     <img src="assets/img/shereen.jpeg" alt="Mahapatra" style="width: 180px; height: 180px; border-radius: 50%;">
     <p><strong>Dr. Shereen Fouad </strong></p>
-    <p>Aston University, United Kingdom</p>
+    <p>Aston University, UK</p>
   </div>
   <!-- <div style="text-align: center;">
     <img src="assets/img/mahapatra.jpg" alt="Mahapatra" style="width: 180px; height: 180px; border-radius: 50%;">
