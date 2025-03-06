@@ -33,11 +33,16 @@ Foundation AI models are generalistic AI models that have recently garnered huge
     <p><strong>Dr. Kun Zhang</strong></p>
     <p>Carnegie Mellon University, USA</p>
   </div>
-  <div style="text-align: center;">
+    <div style="text-align: center;">
+    <img src="assets/img/shereen.jpeg" alt="Mahapatra" style="width: 180px; height: 180px; border-radius: 50%;">
+    <p><strong>Dr. Shereen Fouad </strong></p>
+    <p>Aston University, United Kingdom</p>
+  </div>
+  <!-- <div style="text-align: center;">
     <img src="assets/img/mahapatra.jpg" alt="Mahapatra" style="width: 180px; height: 180px; border-radius: 50%;">
     <p><strong>Dr. Dwarikanath Mahapatra</strong></p>
     <p>Inception Institute of AI, UAE</p>
-  </div>
+  </div> -->
 </div>
 
 
