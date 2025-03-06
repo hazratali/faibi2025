@@ -84,8 +84,14 @@ Hyatt Regency Houston Downtown, Houston, Texas, USA.
     <tr>
         <td>10:20 am</td>
         <td>Invited talk</td>
-        <td>Invited speaker 3</td>
-        <td><strong>To be confirmed</strong></td>
+        <td>Shereen Fouad </td>
+        <td>
+            <strong>Leveraging the Power of Hybrid Deep Learning Models for Enhanced Medical Imaging Segmentation</strong>
+            <details>
+                <summary>Read abstract</summary>
+                This talk explores the power of hybrid deep learning models for medical imaging segmentation, focusing on two challenging applications: mandibular canal (MC) segmentation in Cone Beam Computed Tomography (CBCT) and ground glass opacity (GGO) segmentation in chest CT scans. For MC segmentation, we propose a deep learning-based approach using 3D U-Net and 3D Attention U-Net networks, demonstrating that the 3D Attention U-Net outperforms the standard 3D U-Net with superior Dice similarity, precision, and recall values. Similarly, for GGO segmentation in chest CT scans, we introduce a ResNet-50U-Net model, which enhances feature extraction and achieves improved segmentation performance compared to traditional U-Net and DenseNet-121U-Net models. Both approaches incorporate Grad-CAM++, a post-hoc visual explainability tool that highlights key regions influencing the model's predictions, addressing the trust and transparency challenges of "black-box" deep learning models. These hybrid deep learning models provide significant advancements in medical imaging segmentation, enhancing clinical decision-making and diagnostics.
+            </details>
+        </td>
     </tr>
     <tr>
         <td>10:40 am</td>
