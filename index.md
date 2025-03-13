@@ -67,7 +67,12 @@ Hyatt Regency Houston Downtown, Houston, Texas, USA.
         <td>9:00 am</td>
         <td>Invited talk</td>
         <td>Kayhan Batmanghelich</td>
-        <td><strong>To be confirmed</strong></td>
+        <td><strong>Beyond One-Size-Fits-All: Foundational Models for Organ-Centric Medical Imaging</strong>
+            <details>
+                <summary>Read abstract</summary>
+                The rapid advancement of artificial intelligence has spurred a growing shift toward foundational models, including in applied fields like medical imaging. These models promise to streamline the development process by replacing multiple task-specific models with a single, versatile framework trained on large multimodal data. While this concept is compelling and early results are encouraging, our analysis reveals that current foundational models fall short in addressing the unique complexities of medical imaging. In this talk, I propose a middle-ground solution: organ-specific foundational models tailored to domains such as lung and breast imaging. Drawing from our recent works, Mamo-CLIP and MedSyn, I will highlight both the potential and the limitations of this approach. By addressing key challenges—including data scarcity, annotation burden, and anatomical variability—I will discuss practical strategies for building effective domain-specific foundational models. The talk will conclude with a forward-looking perspective on opportunities to advance foundational model development in medical imaging.
+            </details>
+        </td>
     </tr>
     <tr>
         <td>9:40 am</td>
