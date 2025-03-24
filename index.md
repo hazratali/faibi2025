@@ -54,6 +54,8 @@ We welcome submissions of abstracts for **featured talks** at the workshop. If y
 
 Hyatt Regency Houston Downtown, Houston, Texas, USA.
 
+*Room Arboretum 4-5 (F2)*
+
 
 # Schedule
 <table border="1">
