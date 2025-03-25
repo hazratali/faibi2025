@@ -100,13 +100,12 @@ Hyatt Regency Houston Downtown, Houston, Texas, USA.
             </details>
         </td>
     </tr>
-        <td>10:00 - 10:30 am</td>
+        <td>10:00 - 10:30 am </td>
         <td>Coffee Break </td>
         <td>--- </td>
-        <td>
-        </td>
+        <td>--- </td>
     </tr>
-    </tr>
+    <tr>
         <td>10:30 am</td>
         <td>Invited talk</td>
         <td>Kun Zhang</td>
