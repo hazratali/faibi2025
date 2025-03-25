@@ -99,7 +99,10 @@ Hyatt Regency Houston Downtown, Houston, Texas, USA.
                 Chest X-Ray (CXR) is a widely used clinical imaging modality and has a pivotal role in the diagnosis and prognosis of various lung and heart related conditions. Conventional automated clinical diagnostic tool design strategies relying on radiology reads and supervised learning, entail the cumbersome requirement of high quality annotated training data. To address this challenge, self-supervised pre-training has proven to outperform supervised pre-training in numerous downstream vision tasks, representing a significant breakthrough in the field. However, medical imaging pre-training significantly differs from pre-training with natural images (e.g., ImageNet) due to unique attributes of clinical images. In this talk, I will present a self-supervised training paradigm that leverages a student teacher framework for learning diverse concepts and hence effective representation of the CXR data. Hence, expanding beyond merely modeling a single primary label within an image, instead, effectively harnessing the information from all the concepts inherent in the CXR. The pre-trained model is subsequently fine-tuned to address diverse domain-specific tasks. Our proposed paradigm consistently demonstrates robust performance across multiple downstream tasks on multiple datasets, highlighting the success and generalizability of the pre-training strategy. The training strategy has been extended for federated learning (FL), which could alleviate the burden of data sharing and enable patient privacy. I will briefly talk about the privacy landscape of FL and potential data leakage within the FL paradigm.
             </details>
         </td>
+    <tr>
+    <td colspan="4">10:00 - 10:30 am  Coffee Break</td>
     </tr>
+    <tr>
         <td>10:00 - 10:30 am </td>
         <td>Coffee Break </td>
         <td>--- </td>
