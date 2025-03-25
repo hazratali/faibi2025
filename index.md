@@ -104,7 +104,6 @@ Hyatt Regency Houston Downtown, Houston, Texas, USA.
         <td>Coffee Break </td>
         <td>--- </td>
         <td>
-            <strong>---</strong>
         </td>
     </tr>
     </tr>
