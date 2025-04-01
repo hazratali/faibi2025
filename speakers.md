@@ -3,7 +3,6 @@ layout: page
 title: Speakers
 permalink: /speakers/
 ---
-# Speakers
 
 ## Dr. Kayhan Batmanghelich
 Dr. Kayhan Batmanghelich is an Assistant Professor at the Department of Electrical and Computer Engineering at Boston University. Previously, he was an Assistant Professor at the Department of Biomedical Informatics with a secondary appointment at the School of Computing and Information at the University of Pittsburgh. Before that, he was a post-doc at Computer Science and Artificial Intelligence Lab (CSAIL) at MIT, and worked with Prof. Polina Golland.
