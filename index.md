@@ -100,7 +100,7 @@ Hyatt Regency Houston Downtown, Houston, Texas, USA.
             </details>
         </td>
     <tr>
-    <td colspan="4" style="text-align: center;">10:00 - 10:30 am Coffee Break</td>
+    <td colspan="4" style="text-align: center;">10:00 - 10:30 am <strong>Coffee Break</strong></td>
     </tr>
     <tr>
         <td>10:30 am</td>
